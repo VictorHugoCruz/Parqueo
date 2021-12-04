@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">593796034191-8qlp103amvifhe22godrtu1a1e12rs5f.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">593796034191</string>
+    <string name="google_api_key" translatable="false">AIzaSyBcevN_A0iuxbi6y1KvcVFpy16O_CVC3JY</string>
+    <string name="google_app_id" translatable="false">1:593796034191:android:fe0366ff6d8072a1324afa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBcevN_A0iuxbi6y1KvcVFpy16O_CVC3JY</string>
+    <string name="google_storage_bucket" translatable="false">pruebafire-1cb18.appspot.com</string>
+    <string name="project_id" translatable="false">pruebafire-1cb18</string>
+</resources>

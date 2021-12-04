@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bien Cuidao</string>
+    <string name="title_activity_maps_bienvenida">MapsBienvenida</string>
+    <string name="invalid_mail">Correo invalido</string>
+    <string name="invalid_pass">Verifique la contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="facebook_app_id">627353238284380</string>
+    <string name="fb_login_protocol_scheme">fb627353238284380</string>
+
+</resources>

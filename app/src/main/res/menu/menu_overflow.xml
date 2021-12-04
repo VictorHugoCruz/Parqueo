@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Mapa"
+        android:id="@+id/item_mapa"
+        android:icon="@drawable/ic_map"/>
+    <item android:title="Parqueos"
+        android:id="@+id/item_parqueos"
+        android:icon="@drawable/ic_lista"/>
+    <item android:title="reservas"
+        android:id="@+id/item_reservas"
+        android:icon="@drawable/ic_reserva"/>
+    <item android:title="Se lo lavo?"
+        android:id="@+id/item_historial"/>
+    <item android:title="Cerrar sesion"
+        android:id="@+id/item_cerrar_sesion"/>
+</menu>

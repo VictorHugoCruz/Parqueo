@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_lista_parqueo.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_lista_parqueo.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_lista_parqueos.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/fragment_lista_parqueos.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_parqueo.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/item_parqueo.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_maps_bienvenida.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_maps_bienvenida.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_registro.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_registro.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reservas.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/fragment_reservas.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_reservas.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_reservas.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_maps.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_pantalla_bienvenida.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_pantalla_bienvenida.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_maps.xml",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_maps.xml"
+    }
+]

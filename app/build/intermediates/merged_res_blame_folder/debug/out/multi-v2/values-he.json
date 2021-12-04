@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/home/victorhcc/.gradle/caches/transforms-2/files-2.1/c3c49643aab2e77e2428e5fedf54b34f/jetified-zxing-android-embedded-3.4.0/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,296",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "106,156,291,381"
+                    }
+                }
+            ]
+        }
+    ]
+}

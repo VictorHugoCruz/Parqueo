@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/activity_maps"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity"
+    style="@style/AppTheme">
+
+        <fragment
+            android:id="@+id/maps_activ"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            />
+
+        <com.getbase.floatingactionbutton.FloatingActionsMenu
+            android:id="@+id/fab_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                map:layout_constraintBottom_toBottomOf="parent"
+                map:layout_constraintEnd_toEndOf="parent"
+            map:fab_addButtonColorNormal="@color/color_primary"
+            map:fab_addButtonColorPressed="@color/color_primary_variant">
+
+                <com.getbase.floatingactionbutton.FloatingActionButton
+                    map:fab_colorNormal="@color/colorAccent"
+                    android:id="@+id/fab_lista"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    map:fab_icon="@drawable/ic_lista"
+                    map:fab_size="mini"/>
+
+                <com.getbase.floatingactionbutton.FloatingActionButton
+                    map:fab_colorNormal="@color/color_primary_variant"
+                    android:id="@+id/fab_reservas"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    map:fab_icon="@drawable/ic_reserva"
+                    map:fab_size="mini"/>
+
+
+        </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

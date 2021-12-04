@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/values-v23/themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "374"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    }
+                },
+                {
+                    "source": "/home/victorhcc/.gradle/caches/transforms-2/files-2.1/faed45f9778fd7208ffdd87e0e08d7a7/appcompat-1.2.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,26,40,41,42,45,49,50,51,52",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "378,513,648,723,810,1694,2590,2709,2836,3058,3282,3397,3504,3617",
+                        "endLines": "8,9,10,11,25,39,40,41,44,48,49,50,51,55",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "508,643,718,805,1689,2585,2704,2831,3053,3277,3392,3499,3612,3842"
+                    }
+                },
+                {
+                    "source": "/home/victorhcc/.gradle/caches/transforms-2/files-2.1/6f4d9f5f67ff19eb563fa2f9b06b281a/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "3847",
+                        "endLines": "58",
+                        "endColumns": "12",
+                        "endOffsets": "3992"
+                    }
+                },
+                {
+                    "source": "/home/victorhcc/.gradle/caches/transforms-2/files-2.1/f29e70ed9ea33c81f542043ab59d7021/material-1.3.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,320",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "315,588"
+                    },
+                    "to": {
+                        "startLines": "59,63",
+                        "startColumns": "4,4",
+                        "startOffsets": "3997,4262",
+                        "endLines": "62,66",
+                        "endColumns": "10,10",
+                        "endOffsets": "4257,4530"
+                    }
+                }
+            ]
+        }
+    ]
+}

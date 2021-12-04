@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tecno2_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_tecno2_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bien_cuidado_logo_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_bien_cuidado_logo_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_parqueo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_parqueo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_louncher_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_louncher_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_louncher_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_louncher_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_lot_tecno3_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_lot_tecno3_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tecno2.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_tecno2.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_contacto.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_contacto.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_contacto.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_contacto.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_louncher_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_louncher_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logo_parking_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_logo_parking_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_lot_tecno3_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_lot_tecno3_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_tecno2_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_tecno2_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_item_parqueo.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/item_parqueo.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logo_parking.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_logo_parking.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bien_cuidado_logo_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_bien_cuidado_logo_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_parqueo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_parqueo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_lot_tecno3_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_lot_tecno3_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tecno2_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_tecno2_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tecno2_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_tecno2_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_bien_cuidado_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_bien_cuidado_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_fragment_lista_parqueos.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/fragment_lista_parqueos.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logo_parking_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_logo_parking_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bien_cuidado.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_bien_cuidado.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logo_parking_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_logo_parking_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_bien_cuidado_logo_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_bien_cuidado_logo_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_ic_lista.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/ic_lista.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tecno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_tecno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_lot_tecno3.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_lot_tecno3.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_louncher.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_louncher.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logo_parking.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_logo_parking.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_bien_cuidado_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_bien_cuidado_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_bien_cuidado_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_bien_cuidado_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_fragment_reservas.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/fragment_reservas.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bien_cuidado_logo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_bien_cuidado_logo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bien_cuidado_logo_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_bien_cuidado_logo_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/anim_top_animcacion.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/anim/top_animcacion.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_ic_reserva.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/ic_reserva.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_lot_tecno3_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_lot_tecno3_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_bien_cuidado_logo_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_bien_cuidado_logo_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tecno2_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_tecno2_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tecno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_tecno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tecno2_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_tecno2_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_louncher_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_louncher_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_maps_bienvenida.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_maps_bienvenida.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_tecno2.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_tecno2.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_bien_cuidado.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_bien_cuidado.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logo_parking_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_logo_parking_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tecno2_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_tecno2_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_parqueo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_parqueo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_louncher_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_louncher_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_bien_cuidado_logo_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_bien_cuidado_logo_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logo_parking.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_logo_parking.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/font_antic.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/font/antic.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_louncher.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_louncher.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_louncher_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_louncher_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bien_cuidado.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_bien_cuidado.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tecno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_tecno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_registro.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_registro.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tecno2.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_tecno2.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_bien_cuidado.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_bien_cuidado.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_lot_tecno3_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_lot_tecno3_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_lot_tecno3.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_lot_tecno3.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_lista_parqueo.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_lista_parqueo.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bien_cuidado.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_bien_cuidado.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_louncher_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_louncher_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/anim_bottom_animacio.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/anim/bottom_animacio.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tecno2.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_tecno2.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tecno2_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_tecno2_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tecno2_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_tecno2_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bien_cuidado_logo.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_bien_cuidado_logo.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_reservas.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_reservas.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_lot_tecno3_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_lot_tecno3_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/menu_menu_overflow.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/menu/menu_overflow.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logo_parking.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_logo_parking.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_louncher.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_louncher.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logo_parking.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_logo_parking.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_bien_cuidado_logo_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_bien_cuidado_logo_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tecno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_tecno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tecno2_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_tecno2_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_lot_tecno3.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_lot_tecno3.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bien_cuidado_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_bien_cuidado_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_bien_cuidado_logo_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_bien_cuidado_logo_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tecno2_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_tecno2_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_louncher_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_louncher_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_lot_tecno3_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_lot_tecno3_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logo_parking_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_logo_parking_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_bien_cuidao_02.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/bien_cuidao_02.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bien_cuidado_logo_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_bien_cuidado_logo_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_ic_car.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/ic_car.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_lot_tecno3.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_lot_tecno3.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_parqueo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_parqueo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_louncher_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_louncher_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_bien_cuidado_logo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_bien_cuidado_logo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_parqueo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_parqueo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_bien_cuidado_logo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_bien_cuidado_logo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_lot_tecno3_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_lot_tecno3_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_bien_cuidado.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_bien_cuidado.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bien_cuidado_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_bien_cuidado_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_logo_instituto.jpg.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/logo_instituto.jpg"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_louncher.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_louncher.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_logo_parking_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_logo_parking_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_parqueo_lleno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_parqueo_lleno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bien_cuidado_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_bien_cuidado_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_bien_cuidado_logo_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_bien_cuidado_logo_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_bien_cuidao_01.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/bien_cuidao_01.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tecno2.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_tecno2.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tecno2.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_tecno2.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_fragment_maps.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_bien_cuidado_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_bien_cuidado_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logo_parking_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_logo_parking_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_lot_tecno3_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_lot_tecno3_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tecno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_tecno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/layout_activity_pantalla_bienvenida.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/layout/activity_pantalla_bienvenida.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_bien_cuidado_logo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_bien_cuidado_logo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_louncher.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_louncher.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_bien_cuidado_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_bien_cuidado_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_parqueo_lleno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_parqueo_lleno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bien_cuidado_logo.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_bien_cuidado_logo.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_contacto.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_contacto.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_contacto.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_contacto.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_bien_cuidado_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_bien_cuidado_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_contacto.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_contacto.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_parqueo_lleno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_parqueo_lleno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_lot_tecno3.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_lot_tecno3.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logo_parking_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_logo_parking_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_logo_parking.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_logo_parking.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logo_parking_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_logo_parking_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_bien_cuidado_logo_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_bien_cuidado_logo_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_louncher_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_louncher_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logo_parking_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-hdpi/ic_logo_parking_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_lot_tecno3_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_lot_tecno3_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_louncher.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_louncher.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_louncher_round.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-anydpi-v26/ic_louncher_round.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_parqueo_lleno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_parqueo_lleno.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_lot_tecno3_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_lot_tecno3_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logo_parking_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_logo_parking_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/drawable_ic_map.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/drawable/ic_map.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_bien_cuidado_round.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxxhdpi/ic_bien_cuidado_round.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_lot_tecno3.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xhdpi/ic_lot_tecno3.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/font_bangers.xml.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/font/bangers.xml"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_bien_cuidado_foreground.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-mdpi/ic_bien_cuidado_foreground.png"
+    },
+    {
+        "merged": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_parqueo_lleno.png.flat",
+        "source": "/home/victorhcc/AndroidStudioProjects/Parking/app/src/main/res/mipmap-xxhdpi/ic_parqueo_lleno.png"
+    }
+]
