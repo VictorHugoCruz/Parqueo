@@ -4,7 +4,7 @@
             "outputFile": "/home/victorhcc/AndroidStudioProjects/Parking/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/home/victorhcc/.gradle/caches/transforms-2/files-2.1/c3c49643aab2e77e2428e5fedf54b34f/jetified-zxing-android-embedded-3.4.0/res/values-v11/values-v11.xml",
+                    "source": "/home/victorhcc/.gradle/caches/transforms-2/files-2.1/896b2130c4b19b785c04b749395e4ae0/jetified-zxing-android-embedded-3.4.0/res/values-v11/values-v11.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

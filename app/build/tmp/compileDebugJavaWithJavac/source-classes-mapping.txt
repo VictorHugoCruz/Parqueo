@@ -27,13 +27,6 @@ com/victorcruz/parking/ListaParqueo.java
  com.victorcruz.parking.ListaParqueo$2
 com/victorcruz/parking/databinding/ActivityRegistroBinding.java
  com.victorcruz.parking.databinding.ActivityRegistroBinding
-com/victorcruz/parking/ListaParqueosFragment.java
- com.victorcruz.parking.ListaParqueosFragment
-com/victorcruz/parking/MapsBienvenida.java
- com.victorcruz.parking.MapsBienvenida
- com.victorcruz.parking.MapsBienvenida$1
- com.victorcruz.parking.MapsBienvenida$2
- com.victorcruz.parking.MapsBienvenida$3
 com/victorcruz/parking/PantallaBienvenida.java
  com.victorcruz.parking.PantallaBienvenida
  com.victorcruz.parking.PantallaBienvenida$1
@@ -46,16 +39,10 @@ com/victorcruz/parking/MapsActivity.java
  com.victorcruz.parking.MapsActivity$5
  com.victorcruz.parking.MapsActivity$6
  com.victorcruz.parking.MapsActivity$7
-com/victorcruz/parking/databinding/FragmentListaParqueosBinding.java
- com.victorcruz.parking.databinding.FragmentListaParqueosBinding
-com/victorcruz/parking/MapsFragment.java
- com.victorcruz.parking.MapsFragment
 com/victorcruz/parking/ParqueosPojo.java
  com.victorcruz.parking.ParqueosPojo
 com/victorcruz/parking/databinding/ActivityListaParqueoBinding.java
  com.victorcruz.parking.databinding.ActivityListaParqueoBinding
-com/victorcruz/parking/databinding/FragmentMapsBinding.java
- com.victorcruz.parking.databinding.FragmentMapsBinding
 com/victorcruz/parking/databinding/ActivityMapsBienvenidaBinding.java
  com.victorcruz.parking.databinding.ActivityMapsBienvenidaBinding
 com/victorcruz/parking/databinding/ItemParqueoBinding.java
@@ -63,9 +50,5 @@ com/victorcruz/parking/databinding/ItemParqueoBinding.java
 com/victorcruz/parking/MyAdapter.java
  com.victorcruz.parking.MyAdapter
  com.victorcruz.parking.MyAdapter$MyViewHolder
-com/victorcruz/parking/ReservasFragment.java
- com.victorcruz.parking.ReservasFragment
-com/victorcruz/parking/databinding/FragmentReservasBinding.java
- com.victorcruz.parking.databinding.FragmentReservasBinding
 com/victorcruz/parking/databinding/ActivityReservasBinding.java
  com.victorcruz.parking.databinding.ActivityReservasBinding

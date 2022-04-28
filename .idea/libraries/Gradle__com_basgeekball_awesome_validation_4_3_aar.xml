@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7defef3b35f6571d6362b299d763185/awesome-validation-4.3/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7defef3b35f6571d6362b299d763185/awesome-validation-4.3/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7defef3b35f6571d6362b299d763185/awesome-validation-4.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7defef3b35f6571d6362b299d763185/jetified-awesome-validation-4.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7defef3b35f6571d6362b299d763185/jetified-awesome-validation-4.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7defef3b35f6571d6362b299d763185/jetified-awesome-validation-4.3/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basgeekball/awesome-validation/4.3/3b10076bfefd9708e75de2d6446efacacb09e4e8/awesome-validation-4.3-javadoc.jar!/" />
